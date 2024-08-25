@@ -1,8 +1,5 @@
 # Tennis data Analysis project
 
-team members:
-- Hossein Faghihi
-- Amir Hossein Ranjbar
 
 ## Data Description
 
